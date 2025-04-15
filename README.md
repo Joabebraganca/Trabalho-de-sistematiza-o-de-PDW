@@ -49,7 +49,7 @@ code .
 ##  Acesso Online via GitHub Pages (opcional)
 
 Caso tenha ativado o GitHub Pages, o site pode ser acessado por:
- https://Joabebraganca.github.io/clinica-vida-util
+[ https://Joabebraganca.github.io/clinica-vida-util](https://github.com/Joabebraganca/Trabalho-de-sistematiza-o-de-PDW)
 
 (Verifique se está publicado nas configurações do repositório)
 
