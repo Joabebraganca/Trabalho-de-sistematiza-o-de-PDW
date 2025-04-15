@@ -46,13 +46,8 @@ code .
 - Impede que a página recarregue após o envio;
 - Limpa os campos automaticamente.
 
-##  Acesso Online via GitHub Pages (opcional)
-
-Caso tenha ativado o GitHub Pages, o site pode ser acessado por:
-https://github.com/Joabebraganca/Trabalho-de-sistematiza-o-de-PDW
-
-(Verifique se está publicado nas configurações do repositório)
-
+##  Acesso Online via GitHub Pages 
+https://joabebraganca.github.io/Trabalho-de-sistematiza-o-de-PDW/
 
 ##  Desenvolvedor
 
