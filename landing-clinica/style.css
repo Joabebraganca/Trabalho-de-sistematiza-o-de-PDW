@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  margin: 0;
+}
+
+header {
+  background-color: #2c97de;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  text-align: center;
+  padding: 20px;
+}
+
+.imagem-horizontal img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+  object-fit: cover;
+}
+
+.colunas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.colunas img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+#formulario {
+  background-color: #f8f8f8;
+  padding: 20px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+#form-contato input, #form-contato button {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+form input, form button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+form button {
+  background-color: #2c97de;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #1a6fa4;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #2c97de;
+  color: white;
+}

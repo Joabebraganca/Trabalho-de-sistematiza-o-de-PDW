@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR"> 
+<head>
+  <meta charset="UTF-8"> 
+  <title>Clínica Vida útil</title> 
+  <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+  <header>
+    <h1>Clínica Vida útil</h1> 
+    <p>Cuidando da sua saúde com carinho.</p>
+  </header>
+
+  <section class="imagem-horizontal">
+    <img src="imagens/consulta.jpg" alt="Imagem sobre serviços da clínica">
+  </section>
+
+  <section>
+    <h2>Nossa Equipe</h2>
+    <div class="colunas">
+      <div> 
+      <img src="imagens/joao.jpg" alt="Dr. João">
+      <p>Dr. João Silva – Clínico Geral</p> 
+      </div>
+      <div>
+      <img src="imagens/princila.jpg" alt="Dra. Princila">
+      <p>Dra. Princila – Psiquiatra</p>
+    </div>
+    <div>
+      <img src="imagens/roberto.jpg" alt="Dra. Princila">
+      <p>Dr. Roberto – Dentista</p>
+    </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Entre em Contato</h2>
+        <p>Telefone – (61) 99999-9999</p>
+        <p>Email: <a href="mailto:clinicavidautil@gmail.com">clinicavidautil@gmail.com</a></p>
+  </section>
+
+  <section id="formulario">
+    <h2>Quer saber mais sobre nossos Serviços</h2>
+      <form id="form-contato">
+        <input type="text" name="Nome" placeholder="Nome">
+        <input type="email" name="email" placeholder="E-mail">
+        <input type="text" name="cidade" placeholder="Cidade" required>
+        <input type="text" name="Estado" placeholder="Estado">
+        <button type="submit">Quero saber mais</button>
+      </form>
+      <p id="mensagem-sucesso" style="display:none; color: green; margin-top: 10px;"></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Clínica Vida ùtil</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
