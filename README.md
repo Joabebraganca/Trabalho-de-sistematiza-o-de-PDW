@@ -28,7 +28,7 @@ Esta página estática visa divulgar os serviços, a equipe e os canais de conta
 ## ▶ Como Executar o Projeto Localmente
 
 1. Clone o repositório:
-git clone https://github.com/Joabebraganca/clinica-vida-util.git
+git clone https://github.com/Joabebraganca/Trabalho-de-sistematiza-o-de-PDW
 
 2. Acesse a pasta do projeto:
 cd clinica-vida-util
@@ -49,7 +49,7 @@ code .
 ##  Acesso Online via GitHub Pages (opcional)
 
 Caso tenha ativado o GitHub Pages, o site pode ser acessado por:
-[ https://Joabebraganca.github.io/clinica-vida-util](https://github.com/Joabebraganca/Trabalho-de-sistematiza-o-de-PDW)
+https://github.com/Joabebraganca/Trabalho-de-sistematiza-o-de-PDW
 
 (Verifique se está publicado nas configurações do repositório)
 
