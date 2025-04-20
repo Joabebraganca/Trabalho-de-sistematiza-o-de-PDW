@@ -48,6 +48,7 @@ code .
 
 ##  Acesso Online via GitHub Pages 
 https://joabebraganca.github.io/Trabalho-de-sistematiza-o-de-PDW/
+ou pode acessar por aqui http://127.0.0.1:5500/index.html
 
 ##  Desenvolvedor
 
